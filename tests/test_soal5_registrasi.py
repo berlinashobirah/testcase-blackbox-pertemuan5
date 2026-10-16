@@ -43,6 +43,7 @@ KASUS = [
     ('TC-30', 'telepon', '0812345678901', True),
     ('TC-31', 'telepon', '08123456789012', False),
     ('TC-32', 'telepon', '0712345678', False),
+    ('TC-33', 'telepon', '0812345678', True),
 ]
 
 
